@@ -10,13 +10,8 @@ Hoy en día, la esperanza de vida no es igual para todo. Mientras algunas comuni
  ¿Qué factores realmente explican por qué algunas poblaciones viven más que otras?
 
 Para analizar esta situación, evaluamos variables relacionadas con:
-•	Educación
-•	Vacunación
-•	Gastos en salud
-•	Nutrición
-•	Ingresos
-•	Mortalidad infantil
-•	Condiciones sociales
+Educación, Vacunación, Gastos en salud, Nutrición, Ingresos, Mortalidad infantil, Condiciones sociales
+
 Este análisis toma como referencia investigaciones internacionales como:
 UNDP (2020) – Human Development Report: Inequality in Human Lifespans
 PAHO (2021) – Social inequalities and life expectancy in the Americas 
