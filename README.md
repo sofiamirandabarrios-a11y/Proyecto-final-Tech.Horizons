@@ -24,9 +24,9 @@ PAHO (2021) – Social inequalities and life expectancy in the Americas
 # Objetivos del Proyecto 
 
 ## Objetivo general: 
-	Analizar qué factores influyen en la esperanza de vida y cómo afectan el bienestar de la población.
-•	** Objetivos Específicos ** 
-	Comparar tendencias de esperanza de vida entre diferentes países para identificar desigualdades y patrones globales.
-	Evaluar el impacto de factores clave, como educación, salud preventiva e ingresos, sobre el bienestar y la longevidad.
-	Identificar relaciones entre variables de salud mediante visualizaciones estadísticas creadas con Pandas, Matplotlib y Seaborn.
-	Determinar cuáles factores influyen con mayor peso en la esperanza de vida, con el fin de comprender qué áreas requieren mayor atención.
+• Analizar qué factores influyen en la esperanza de vida y cómo afectan el bienestar de la población.
+•	Objetivos Específicos 
+•	Comparar tendencias de esperanza de vida entre diferentes países para identificar desigualdades y patrones globales.
+• Evaluar el impacto de factores clave, como educación, salud preventiva e ingresos, sobre el bienestar y la longevidad.
+•	Identificar relaciones entre variables de salud mediante visualizaciones estadísticas creadas con Pandas, Matplotlib y Seaborn.
+•	Determinar cuáles factores influyen con mayor peso en la esperanza de vida, con el fin de comprender qué áreas requieren mayor atención.
