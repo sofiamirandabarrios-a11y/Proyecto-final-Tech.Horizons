@@ -14,7 +14,7 @@ Educación, Vacunación, Gastos en salud, Nutrición, Ingresos, Mortalidad infan
 
 Este análisis toma como referencia investigaciones internacionales como:
 
-UNDP (2020) – Human Development Report: Inequality in Human Lifespans
+UNDP (2020) – Human Development Report: Inequality in Human Lifespans  
 PAHO (2021) – Social inequalities and life expectancy in the Americas 
 
 # Objetivos del Proyecto 
