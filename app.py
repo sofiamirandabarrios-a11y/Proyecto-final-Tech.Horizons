@@ -17,13 +17,13 @@ st.set_page_config(
 st.markdown("""
 <style>
 body {
-    background-color: #f7fdfb;
+    background-color: #FFEFA0;
 }
 .block-container {
     padding-top: 1rem;
 }
 h1, h2, h3 {
-    color: #196f5c;
+    color: #5A8F68;
 }
 </style>
 """, unsafe_allow_html=True)
@@ -225,3 +225,4 @@ st.markdown("""
 <h2><b>➡ Conclusión: educación + salud preventiva = mayor esperanza de vida.</b></h2>
 </div>
 """, unsafe_allow_html=True)
+
