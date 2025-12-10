@@ -46,5 +46,31 @@ Relación más fuerte entre escolaridad y salud pública
 El estudio demuestra que la esperanza de vida no depende de un solo indicador, sino de la interacción entre educación, economía y salud preventiva.
 Fortalecer estos factores en Panamá podría reducir significativamente la brecha con Costa Rica.
 
+## ⚙️ Cómo Ejecutar el Dashboard
+1️⃣ Instalar dependencias
+
+Abre la terminal dentro de la carpeta del proyecto y ejecuta:
+
+pip install -r requirements.txt
+
+2️⃣ Iniciar el dashboard
+
+En la misma terminal, ejecuta:
+
+streamlit run app.py
+
+
+Al ejecutarlo, Streamlit mostrará algo así:
+
+Local URL: http://localhost:8501
+Network URL: http://192.168.50.111:8501
+
+3️⃣ Abrir en el navegador
+
+Para usarlo en tu propia computadora:
+👉 Abre tu navegador y entra a http://localhost:8501
+
+Para que alguien más en tu red local lo vea:
+👉 Usa http://192.168.50.111:8501
 
 
