@@ -4,7 +4,7 @@
 
 Puedes acceder al informe completo aquí:
 
-👉 **[Abrir Healthlytics.pdf](file:///C:/Users/HP/Downloads/Healthlytics.pdf)**
+👉 **[Abrir Healthlytics.pdf](Healthlytics.pdf)**
 
 
 ---
