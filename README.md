@@ -8,30 +8,43 @@ Puedes acceder al informe completo aquí:
 
 
 ---
-# *Healthlytics : Factores de Esperanza de Vida.”*
-Healthlytics es un sistema de análisis que examina los factores que influyen en la esperanza de vida de diferentes países del mundo. El proyecto está inspirado en los principios del ODS 3, buscando comprender qué elementos están marcando la diferencia entre vivir más año… o no poder hacerlo.
-A través de gráficos, comparaciones y análisis de datos, Healthlytics permite visualizar desigualdades, identificar patrones y aportar información útil para la investigación y la toma de decisiones.
+Proyecto Final – Healthlytics
+Análisis de Datos para Impacto Social usando los ODS
 
-# **Problemática**
-Hoy en día, la esperanza de vida no es igual para todo. Mientras algunas comunidades logran vivir más gracias al acceso a salud, educación y mejores condiciones, otras siguen enfrentando barreras que limitan sus oportunidades de vivir más tiempo y con calidad.
+Créditos: Ing. Carlos Campbell – Coordinador Académico
 
-## Nuestro proyecto busca responder: 
- ¿Qué factores realmente explican por qué algunas poblaciones viven más que otras?
+ Descripción General
 
-Para analizar esta situación, evaluamos variables relacionadas con:
-Educación, Vacunación, Gastos en salud, Nutrición, Ingresos, Mortalidad infantil, Condiciones sociales
+Este repositorio contiene todos los recursos utilizados para desarrollar Healthlytics, un proyecto de análisis de datos enfocado en comprender los factores que influyen en la esperanza de vida, alineado con el ODS 3: Salud y Bienestar.
 
-Este análisis toma como referencia investigaciones internacionales como:
+El propósito central es demostrar cómo la combinación de educación, salud preventiva, inversión pública y condiciones sociales determina cuántos años viven las personas… y por qué existen brechas entre países vecinos como Costa Rica y Panamá.
 
-UNDP (2020) – Human Development Report: Inequality in Human Lifespans  
-PAHO (2021) – Social inequalities and life expectancy in the Americas 
+ ## Objetivo del Proyecto
 
-# Objetivos del Proyecto 
+Desarrollar una solución basada en datos que permita analizar desigualdades en la esperanza de vida, identificar factores determinantes de salud pública y comprender cómo estos influyen en la calidad de vida de distintos países.
 
-## Objetivo general: 
-•Analizar qué factores influyen en la esperanza de vida y cómo afectan el bienestar de la población.    
-•	Objetivos Específicos.  
-•	Comparar tendencias de esperanza de vida entre diferentes países para identificar desigualdades y patrones globales.    
-• Evaluar el impacto de factores clave, como educación, salud preventiva e ingresos, sobre el bienestar y la longevidad.    
-•	Identificar relaciones entre variables de salud mediante visualizaciones estadísticas creadas con Pandas, Matplotlib y Seaborn.   
-•	Determinar cuáles factores influyen con mayor peso en la esperanza de vida, con el fin de comprender qué áreas requieren mayor atención.   
+El proyecto busca generar impacto social, evidenciando cómo las decisiones políticas y sociales moldean la longevidad.
+
+## Hipótesis del Estudio
+
+La esperanza de vida en Costa Rica es mayor que en Panamá debido a la combinación de mayor inversión en salud, mejor cobertura de vacunación, menor mortalidad adulta y una relación más fuerte entre escolaridad y salud pública.
+
+Se espera encontrar que las variables educativas, económicas y sanitarias tienen un impacto más favorable en Costa Rica, explicando su ventaja en longevidad.
+
+## Conclusiones Principales
+
+El análisis confirma que Costa Rica mantiene consistentemente una mayor esperanza de vida que Panamá, gracias a:
+
+Menor mortalidad adulta e infantil
+ Inversión pública en salud más sólida y constante
+
+ Cobertura de vacunación más amplia y uniforme
+Relación más fuerte entre escolaridad y salud pública
+
+ Menor variabilidad en factores críticos de riesgo
+
+El estudio demuestra que la esperanza de vida no depende de un solo indicador, sino de la interacción entre educación, economía y salud preventiva.
+Fortalecer estos factores en Panamá podría reducir significativamente la brecha con Costa Rica.
+
+
+
